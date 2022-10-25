@@ -31,3 +31,10 @@
 > 책은 위에 사진과 같이 **모던 자바스크립트 Deep Dive** 입니다. 쿠팡, 엔씨, 네이버, 네이버웹툰 개발자분들께 추천받은 서적이고 양이 많지만 기본개념과 더불어 깊이가 있는 내용과 동작원리가 상세하게 다루어 진 자바스크립트 개념서 정석으로 회자되는 책입니다. 기본기부터 깊은 내용까지 한 책으로 다루기 위해 선택하게 되었습니다.
 
 ### Participants
+
+#### 1. (권필주)[https://github.com/WinterKwon]
+#### 2. (김하영)[https://github.com/Fibo4487]
+#### 3. (배장한)[https://github.com/newbieJanghan]
+#### 4. (장소영)[https://github.com/Ssoyoung-J]
+#### 5. (홍주완)[https://github.com/vjvl95]
+#### 6. (황채림)[https://github.com/cofla159]
